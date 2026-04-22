@@ -1,4 +1,4 @@
-# Portfolio Replica
+# Portfolio Project
 
 A modern, responsive developer portfolio website showcasing projects, work experience, and technical skills.
 
